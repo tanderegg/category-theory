@@ -1,0 +1,7 @@
+[package]
+name = "category-theory"
+version = "0.0.1"
+authors = ["Tim Anderegg <timothy.anderegg@gmail.com"]
+
+[dependencies]
+rand = "*"
